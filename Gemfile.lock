@@ -48,7 +48,7 @@ GEM
     daemons (1.1.9)
     erubis (2.7.0)
     eventmachine (1.0.0)
-    excon (0.16.10)
+    excon (0.78.1)
     execjs (1.4.0)
       multi_json (~> 1.0)
     fog (1.8.0)
